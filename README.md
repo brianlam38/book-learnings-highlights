@@ -1,4 +1,4 @@
-# book-learnings-highlights
+# security-book-summaries
 Highlights from non-fiction books I am reading
 
 ## Current reading
